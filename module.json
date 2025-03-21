@@ -25,7 +25,7 @@
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
                     "minimum": "2.0.0",
-                    "verified": "2.0.3"
+                    "verified": "4.3.6"
                 }
             }
         ]
@@ -160,7 +160,7 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/btbias/5e-complete",
+    "url": "https://github.com/starelementpoke/5e-complete-V11",
     "manifest": "https://raw.githubusercontent.com/starelementpoke/5e-complete-V11/refs/heads/main/module.json",
     "download": "https://github.com/starelementpoke/5e-complete-V11/archive/refs/tags/personal.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
